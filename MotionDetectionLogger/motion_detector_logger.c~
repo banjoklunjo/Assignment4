@@ -16,7 +16,7 @@ void subscription_callback(guint subscription, AXEvent *ax_event, guint *token);
 void *send_request();
 guint set_up_ax_event_subscription(AXEventHandler *event_handler, guint token);
 
-
+//test
 /* Callback trigger when change in motion state */
 void subscription_callback(guint subscription, AXEvent *ax_event, guint *token)
 {

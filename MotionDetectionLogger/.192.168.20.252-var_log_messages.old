@@ -1,0 +1,326 @@
+
+----- System log -----
+
+2019-12-12T13:44:32.606+00:00 axis-00408cf5b0f1 [ INFO    ] poc: Inside subscription callback
+2019-12-12T13:44:32.607+00:00 axis-00408cf5b0f1 [ INFO    ] poc: Setting up for both events
+2019-12-12T13:44:32.608+00:00 axis-00408cf5b0f1 [ INFO    ] poc: Current local time and date: 2019-12-12 13:44:32
+2019-12-12T13:44:32.754+00:00 axis-00408cf5b0f1 [ INFO    ] poc: Motion detection is not active
+2019-12-12T13:44:32.758+00:00 axis-00408cf5b0f1 [ INFO    ] poc: And here's the token
+2019-12-12T13:44:33.118+00:00 axis-00408cf5b0f1 [ INFO    ] poc: Inside subscription callback
+2019-12-12T13:44:33.122+00:00 axis-00408cf5b0f1 [ INFO    ] poc: Setting up for both events
+2019-12-12T13:44:33.125+00:00 axis-00408cf5b0f1 [ INFO    ] poc: Current local time and date: 2019-12-12 13:44:33
+2019-12-12T13:44:33.127+00:00 axis-00408cf5b0f1 [ INFO    ] poc: Motion detection is active
+2019-12-12T13:44:33.266+00:00 axis-00408cf5b0f1 [ INFO    ] poc: Motion data sent to server!
+2019-12-12T13:44:33.267+00:00 axis-00408cf5b0f1 [ INFO    ] poc: And here's the token
+2019-12-12T13:44:33.640+00:00 axis-00408cf5b0f1 [ INFO    ] poc: Inside subscription callback
+2019-12-12T13:44:33.641+00:00 axis-00408cf5b0f1 [ INFO    ] poc: Current local time and date: 2019-12-12 13:44:33
+2019-12-12T13:44:33.641+00:00 axis-00408cf5b0f1 [ INFO    ] poc: Setting up for both events
+2019-12-12T13:44:33.793+00:00 axis-00408cf5b0f1 [ INFO    ] poc: And here's the token
+2019-12-12T13:44:33.793+00:00 axis-00408cf5b0f1 [ INFO    ] poc: Motion detection is not active
+2019-12-12T13:44:34.159+00:00 axis-00408cf5b0f1 [ INFO    ] poc: Inside subscription callback
+2019-12-12T13:44:34.159+00:00 axis-00408cf5b0f1 [ INFO    ] poc: Setting up for both events
+2019-12-12T13:44:34.160+00:00 axis-00408cf5b0f1 [ INFO    ] poc: Current local time and date: 2019-12-12 13:44:34
+2019-12-12T13:44:34.160+00:00 axis-00408cf5b0f1 [ INFO    ] poc: Motion detection is active
+2019-12-12T13:44:34.309+00:00 axis-00408cf5b0f1 [ INFO    ] poc: Motion data sent to server!
+2019-12-12T13:44:34.313+00:00 axis-00408cf5b0f1 [ INFO    ] poc: And here's the token
+2019-12-12T13:46:02.079+00:00 axis-00408cf5b0f1 [ INFO    ] poc: Inside subscription callback
+2019-12-12T13:46:02.079+00:00 axis-00408cf5b0f1 [ INFO    ] poc: Setting up for both events
+2019-12-12T13:46:02.080+00:00 axis-00408cf5b0f1 [ INFO    ] poc: Current local time and date: 2019-12-12 13:46:02
+2019-12-12T13:46:02.272+00:00 axis-00408cf5b0f1 [ INFO    ] poc: And here's the token
+2019-12-12T13:46:02.272+00:00 axis-00408cf5b0f1 [ INFO    ] poc: Motion detection is not active
+2019-12-12T13:46:07.074+00:00 axis-00408cf5b0f1 [ INFO    ] poc: Inside subscription callback
+2019-12-12T13:46:07.074+00:00 axis-00408cf5b0f1 [ INFO    ] poc: Setting up for both events
+2019-12-12T13:46:07.075+00:00 axis-00408cf5b0f1 [ INFO    ] poc: Current local time and date: 2019-12-12 13:46:07
+2019-12-12T13:46:07.076+00:00 axis-00408cf5b0f1 [ INFO    ] poc: Motion detection is active
+2019-12-12T13:46:07.259+00:00 axis-00408cf5b0f1 [ INFO    ] poc: And here's the token
+2019-12-12T13:46:07.259+00:00 axis-00408cf5b0f1 [ INFO    ] poc: Motion data sent to server!
+2019-12-12T13:46:24.792+00:00 axis-00408cf5b0f1 [ INFO    ] poc: Inside subscription callback
+2019-12-12T13:46:24.794+00:00 axis-00408cf5b0f1 [ INFO    ] poc: Setting up for both events
+2019-12-12T13:46:24.812+00:00 axis-00408cf5b0f1 [ INFO    ] poc: Current local time and date: 2019-12-12 13:46:24
+2019-12-12T13:46:24.949+00:00 axis-00408cf5b0f1 [ INFO    ] poc: Motion detection is not active
+2019-12-12T13:46:24.950+00:00 axis-00408cf5b0f1 [ INFO    ] poc: And here's the token
+2019-12-12T13:46:25.607+00:00 axis-00408cf5b0f1 [ INFO    ] poc: Inside subscription callback
+2019-12-12T13:46:25.608+00:00 axis-00408cf5b0f1 [ INFO    ] poc: Current local time and date: 2019-12-12 13:46:25
+2019-12-12T13:46:25.608+00:00 axis-00408cf5b0f1 [ INFO    ] poc: Setting up for both events
+2019-12-12T13:46:25.657+00:00 axis-00408cf5b0f1 [ INFO    ] poc: Motion detection is active
+2019-12-12T13:46:25.781+00:00 axis-00408cf5b0f1 [ INFO    ] poc: Motion data sent to server!
+2019-12-12T13:46:25.788+00:00 axis-00408cf5b0f1 [ INFO    ] poc: And here's the token
+2019-12-12T13:46:30.710+00:00 axis-00408cf5b0f1 [ INFO    ] poc: Inside subscription callback
+2019-12-12T13:46:30.710+00:00 axis-00408cf5b0f1 [ INFO    ] poc: Setting up for both events
+2019-12-12T13:46:30.715+00:00 axis-00408cf5b0f1 [ INFO    ] poc: Current local time and date: 2019-12-12 13:46:30
+2019-12-12T13:46:30.869+00:00 axis-00408cf5b0f1 [ INFO    ] poc: And here's the token
+2019-12-12T13:46:30.869+00:00 axis-00408cf5b0f1 [ INFO    ] poc: Motion detection is not active
+2019-12-12T13:46:31.656+00:00 axis-00408cf5b0f1 [ INFO    ] poc: Inside subscription callback
+2019-12-12T13:46:31.656+00:00 axis-00408cf5b0f1 [ INFO    ] poc: Setting up for both events
+2019-12-12T13:46:31.657+00:00 axis-00408cf5b0f1 [ INFO    ] poc: Current local time and date: 2019-12-12 13:46:31
+2019-12-12T13:46:31.657+00:00 axis-00408cf5b0f1 [ INFO    ] poc: Motion detection is active
+2019-12-12T13:46:31.827+00:00 axis-00408cf5b0f1 [ INFO    ] poc: Motion data sent to server!
+2019-12-12T13:46:31.833+00:00 axis-00408cf5b0f1 [ INFO    ] poc: And here's the token
+2019-12-12T13:46:32.655+00:00 axis-00408cf5b0f1 [ INFO    ] poc: Inside subscription callback
+2019-12-12T13:46:32.662+00:00 axis-00408cf5b0f1 [ INFO    ] poc: Setting up for both events
+2019-12-12T13:46:32.669+00:00 axis-00408cf5b0f1 [ INFO    ] poc: Current local time and date: 2019-12-12 13:46:32
+2019-12-12T13:46:32.790+00:00 axis-00408cf5b0f1 [ INFO    ] poc: And here's the token
+2019-12-12T13:46:32.790+00:00 axis-00408cf5b0f1 [ INFO    ] poc: Motion detection is not active
+2019-12-12T13:46:39.482+00:00 axis-00408cf5b0f1 [ INFO    ] poc: Inside subscription callback
+2019-12-12T13:46:39.482+00:00 axis-00408cf5b0f1 [ INFO    ] poc: Setting up for both events
+2019-12-12T13:46:39.515+00:00 axis-00408cf5b0f1 [ INFO    ] poc: Current local time and date: 2019-12-12 13:46:39
+2019-12-12T13:46:39.517+00:00 axis-00408cf5b0f1 [ INFO    ] poc: Motion detection is active
+2019-12-12T13:46:39.639+00:00 axis-00408cf5b0f1 [ INFO    ] poc: And here's the token
+2019-12-12T13:46:39.639+00:00 axis-00408cf5b0f1 [ INFO    ] poc: Motion data sent to server!
+2019-12-12T13:46:40.232+00:00 axis-00408cf5b0f1 [ INFO    ] poc: Inside subscription callback
+2019-12-12T13:46:40.233+00:00 axis-00408cf5b0f1 [ INFO    ] poc: Setting up for both events
+2019-12-12T13:46:40.236+00:00 axis-00408cf5b0f1 [ INFO    ] poc: Current local time and date: 2019-12-12 13:46:40
+2019-12-12T13:46:40.404+00:00 axis-00408cf5b0f1 [ INFO    ] poc: Motion detection is not active
+2019-12-12T13:46:40.405+00:00 axis-00408cf5b0f1 [ INFO    ] poc: And here's the token
+2019-12-12T13:46:41.039+00:00 axis-00408cf5b0f1 [ INFO    ] poc: Inside subscription callback
+2019-12-12T13:46:41.039+00:00 axis-00408cf5b0f1 [ INFO    ] poc: Setting up for both events
+2019-12-12T13:46:41.040+00:00 axis-00408cf5b0f1 [ INFO    ] poc: Current local time and date: 2019-12-12 13:46:41
+2019-12-12T13:46:41.045+00:00 axis-00408cf5b0f1 [ INFO    ] poc: Motion detection is active
+2019-12-12T13:46:41.197+00:00 axis-00408cf5b0f1 [ INFO    ] poc: Motion data sent to server!
+2019-12-12T13:46:41.198+00:00 axis-00408cf5b0f1 [ INFO    ] poc: And here's the token
+2019-12-12T13:46:41.662+00:00 axis-00408cf5b0f1 [ INFO    ] poc: Inside subscription callback
+2019-12-12T13:46:41.662+00:00 axis-00408cf5b0f1 [ INFO    ] poc: Setting up for both events
+2019-12-12T13:46:41.663+00:00 axis-00408cf5b0f1 [ INFO    ] poc: Current local time and date: 2019-12-12 13:46:41
+2019-12-12T13:46:41.830+00:00 axis-00408cf5b0f1 [ INFO    ] poc: Motion detection is not active
+2019-12-12T13:46:41.831+00:00 axis-00408cf5b0f1 [ INFO    ] poc: And here's the token
+2019-12-12T13:46:42.191+00:00 axis-00408cf5b0f1 [ INFO    ] poc: Inside subscription callback
+2019-12-12T13:46:42.192+00:00 axis-00408cf5b0f1 [ INFO    ] poc: Current local time and date: 2019-12-12 13:46:42
+2019-12-12T13:46:42.192+00:00 axis-00408cf5b0f1 [ INFO    ] poc: Setting up for both events
+2019-12-12T13:46:42.193+00:00 axis-00408cf5b0f1 [ INFO    ] poc: Motion detection is active
+2019-12-12T13:46:42.319+00:00 axis-00408cf5b0f1 [ INFO    ] poc: Motion data sent to server!
+2019-12-12T13:46:42.333+00:00 axis-00408cf5b0f1 [ INFO    ] poc: And here's the token
+2019-12-12T13:46:42.559+00:00 axis-00408cf5b0f1 [ INFO    ] poc: Inside subscription callback
+2019-12-12T13:46:42.559+00:00 axis-00408cf5b0f1 [ INFO    ] poc: Setting up for both events
+2019-12-12T13:46:42.577+00:00 axis-00408cf5b0f1 [ INFO    ] poc: Current local time and date: 2019-12-12 13:46:42
+2019-12-12T13:46:42.712+00:00 axis-00408cf5b0f1 [ INFO    ] poc: Motion detection is not active
+2019-12-12T13:46:42.713+00:00 axis-00408cf5b0f1 [ INFO    ] poc: And here's the token
+2019-12-12T14:35:19.792+00:00 axis-00408cf5b0f1 [ INFO    ] monolith[1034]: monolith[1034]: HTTP image/jpeg session terminated from 192.168.20.242
+2019-12-14T02:05:24.599+00:00 axis-00408cf5b0f1 [ WARNING ] disks[1296]: Failed to get /sys/ path for /dev/mmcblk0p1
+2019-12-14T03:05:24.592+00:00 axis-00408cf5b0f1 [ WARNING ] disks[1296]: Failed to get /sys/ path for /dev/mmcblk0p1
+2019-12-14T04:05:24.592+00:00 axis-00408cf5b0f1 [ WARNING ] disks[1296]: Failed to get /sys/ path for /dev/mmcblk0p1
+2019-12-14T05:05:24.593+00:00 axis-00408cf5b0f1 [ WARNING ] disks[1296]: Failed to get /sys/ path for /dev/mmcblk0p1
+2019-12-14T06:05:24.594+00:00 axis-00408cf5b0f1 [ WARNING ] disks[1296]: Failed to get /sys/ path for /dev/mmcblk0p1
+2019-12-14T07:05:24.593+00:00 axis-00408cf5b0f1 [ WARNING ] disks[1296]: Failed to get /sys/ path for /dev/mmcblk0p1
+2019-12-14T08:05:24.594+00:00 axis-00408cf5b0f1 [ WARNING ] disks[1296]: Failed to get /sys/ path for /dev/mmcblk0p1
+2019-12-14T09:05:24.594+00:00 axis-00408cf5b0f1 [ WARNING ] disks[1296]: Failed to get /sys/ path for /dev/mmcblk0p1
+2019-12-14T10:05:24.593+00:00 axis-00408cf5b0f1 [ WARNING ] disks[1296]: Failed to get /sys/ path for /dev/mmcblk0p1
+2019-12-14T11:05:24.593+00:00 axis-00408cf5b0f1 [ WARNING ] disks[1296]: Failed to get /sys/ path for /dev/mmcblk0p1
+2019-12-14T12:05:24.593+00:00 axis-00408cf5b0f1 [ WARNING ] disks[1296]: Failed to get /sys/ path for /dev/mmcblk0p1
+2019-12-14T13:05:24.593+00:00 axis-00408cf5b0f1 [ WARNING ] disks[1296]: Failed to get /sys/ path for /dev/mmcblk0p1
+2019-12-14T13:18:20.414+00:00 axis-00408cf5b0f1 [ INFO    ] upload.cgi: Uploaded '/tmp/Motion_detection_1_0_mipsisa32r2el.eap' size:51935
+2019-12-14T13:18:21.909+00:00 axis-00408cf5b0f1 [ NOTICE  ] dbus[859]: [system] Reloaded configuration
+2019-12-14T13:18:22.018+00:00 axis-00408cf5b0f1 [ INFO    ] upload.cgi: Package /tmp/Motion_detection_1_0_mipsisa32r2el.eap installation OK
+2019-12-14T13:18:29.777+00:00 axis-00408cf5b0f1 [ INFO    ] Motion_detection[0]: starting Motion_detection
+2019-12-14T13:18:52.454+00:00 axis-00408cf5b0f1 [ INFO    ] monolith[1034]: monolith[1034]: HTTP image/jpeg session created from 192.168.20.245
+2019-12-14T13:18:55.453+00:00 axis-00408cf5b0f1 [ INFO    ] monolith[1034]: monolith[1034]: HTTP image/jpeg session terminated from 192.168.20.245
+2019-12-14T13:20:34.028+00:00 axis-00408cf5b0f1 [ INFO    ] monolith[1034]: monolith[1034]: HTTP image/jpeg session created from 192.168.20.245
+2019-12-14T13:23:22.385+00:00 axis-00408cf5b0f1 [ INFO    ] Motion_detection[0]: stopping Motion_detection
+2019-12-14T13:31:29.121+00:00 axis-00408cf5b0f1 [ INFO    ] monolith[1034]: monolith[1034]: HTTP image/jpeg session terminated from 192.168.20.245
+2019-12-14T13:39:38.382+00:00 axis-00408cf5b0f1 [ INFO    ] upload.cgi: Uploaded '/tmp/Motion_detection_1_0_mipsisa32r2el.eap' size:52631
+2019-12-14T13:39:39.442+00:00 axis-00408cf5b0f1 [ NOTICE  ] dbus[859]: [system] Reloaded configuration
+2019-12-14T13:39:41.151+00:00 axis-00408cf5b0f1 [ INFO    ] upload.cgi: Package /tmp/Motion_detection_1_0_mipsisa32r2el.eap installation OK
+2019-12-14T13:39:41.153+00:00 axis-00408cf5b0f1 [ NOTICE  ] dbus[859]: message repeated 2 times: [ [system] Reloaded configuration]
+2019-12-14T13:39:49.225+00:00 axis-00408cf5b0f1 [ INFO    ] Motion_detection[0]: starting Motion_detection
+2019-12-14T13:39:58.452+00:00 axis-00408cf5b0f1 [ INFO    ] monolith[1034]: monolith[1034]: HTTP image/jpeg session created from 192.168.20.245
+2019-12-14T13:43:19.384+00:00 axis-00408cf5b0f1 [ INFO    ] upload.cgi: Uploaded '/tmp/Motion_detection_1_0_mipsisa32r2el.eap' size:52628
+2019-12-14T13:43:20.090+00:00 axis-00408cf5b0f1 [ INFO    ] Motion_detection[0]: stopping Motion_detection
+2019-12-14T13:43:21.938+00:00 axis-00408cf5b0f1 [ NOTICE  ] dbus[859]: [system] Reloaded configuration
+2019-12-14T13:43:25.172+00:00 axis-00408cf5b0f1 [ INFO    ] upload.cgi: Package /tmp/Motion_detection_1_0_mipsisa32r2el.eap installation OK
+2019-12-14T13:43:25.173+00:00 axis-00408cf5b0f1 [ NOTICE  ] dbus[859]: message repeated 2 times: [ [system] Reloaded configuration]
+2019-12-14T13:43:30.733+00:00 axis-00408cf5b0f1 [ INFO    ] Motion_detection[0]: starting Motion_detection
+2019-12-14T13:43:31.014+00:00 axis-00408cf5b0f1 [ INFO    ] Motion_detection: HELO
+2019-12-14T13:43:31.016+00:00 axis-00408cf5b0f1 [ INFO    ] Motion_detection: HELO
+2019-12-14T13:44:34.094+00:00 axis-00408cf5b0f1 [ INFO    ] upload.cgi: Uploaded '/tmp/Motion_detection_1_0_mipsisa32r2el.eap' size:52607
+2019-12-14T13:44:34.752+00:00 axis-00408cf5b0f1 [ INFO    ] Motion_detection[0]: stopping Motion_detection
+2019-12-14T13:44:36.658+00:00 axis-00408cf5b0f1 [ NOTICE  ] dbus[859]: [system] Reloaded configuration
+2019-12-14T13:44:39.817+00:00 axis-00408cf5b0f1 [ INFO    ] upload.cgi: Package /tmp/Motion_detection_1_0_mipsisa32r2el.eap installation OK
+2019-12-14T13:44:39.818+00:00 axis-00408cf5b0f1 [ NOTICE  ] dbus[859]: message repeated 2 times: [ [system] Reloaded configuration]
+2019-12-14T13:44:45.493+00:00 axis-00408cf5b0f1 [ INFO    ] Motion_detection[0]: starting Motion_detection
+2019-12-14T13:44:45.764+00:00 axis-00408cf5b0f1 [ INFO    ] Motion_detection: HELO
+2019-12-14T13:46:07.326+00:00 axis-00408cf5b0f1 [ INFO    ] upload.cgi: Uploaded '/tmp/Motion_detection_1_0_mipsisa32r2el.eap' size:52617
+2019-12-14T13:46:08.021+00:00 axis-00408cf5b0f1 [ INFO    ] Motion_detection[0]: stopping Motion_detection
+2019-12-14T13:46:09.965+00:00 axis-00408cf5b0f1 [ NOTICE  ] dbus[859]: [system] Reloaded configuration
+2019-12-14T13:46:13.012+00:00 axis-00408cf5b0f1 [ INFO    ] upload.cgi: Package /tmp/Motion_detection_1_0_mipsisa32r2el.eap installation OK
+2019-12-14T13:46:13.014+00:00 axis-00408cf5b0f1 [ NOTICE  ] dbus[859]: message repeated 2 times: [ [system] Reloaded configuration]
+2019-12-14T13:46:18.614+00:00 axis-00408cf5b0f1 [ INFO    ] Motion_detection[0]: starting Motion_detection
+2019-12-14T13:46:18.910+00:00 axis-00408cf5b0f1 [ INFO    ] Motion_detection: SUBSCRIPTION
+2019-12-14T13:47:46.099+00:00 axis-00408cf5b0f1 [ INFO    ] upload.cgi: Uploaded '/tmp/Motion_detection_1_0_mipsisa32r2el.eap' size:52610
+2019-12-14T13:47:46.768+00:00 axis-00408cf5b0f1 [ INFO    ] Motion_detection[0]: stopping Motion_detection
+2019-12-14T13:47:48.655+00:00 axis-00408cf5b0f1 [ NOTICE  ] dbus[859]: [system] Reloaded configuration
+2019-12-14T13:47:51.729+00:00 axis-00408cf5b0f1 [ INFO    ] upload.cgi: Package /tmp/Motion_detection_1_0_mipsisa32r2el.eap installation OK
+2019-12-14T13:47:51.730+00:00 axis-00408cf5b0f1 [ NOTICE  ] dbus[859]: message repeated 2 times: [ [system] Reloaded configuration]
+2019-12-14T13:47:57.305+00:00 axis-00408cf5b0f1 [ INFO    ] Motion_detection[0]: starting Motion_detection
+2019-12-14T13:52:09.279+00:00 axis-00408cf5b0f1 [ INFO    ] upload.cgi: Uploaded '/tmp/Motion_detection_1_0_mipsisa32r2el.eap' size:52674
+2019-12-14T13:52:10.016+00:00 axis-00408cf5b0f1 [ INFO    ] Motion_detection[0]: stopping Motion_detection
+2019-12-14T13:52:11.990+00:00 axis-00408cf5b0f1 [ NOTICE  ] dbus[859]: [system] Reloaded configuration
+2019-12-14T13:52:13.049+00:00 axis-00408cf5b0f1 [ NOTICE  ] dbus[859]: [system] Reloaded configuration
+2019-12-14T13:52:15.196+00:00 axis-00408cf5b0f1 [ INFO    ] upload.cgi: Package /tmp/Motion_detection_1_0_mipsisa32r2el.eap installation OK
+2019-12-14T13:52:15.572+00:00 axis-00408cf5b0f1 [ NOTICE  ] dbus[859]: [system] Reloaded configuration
+2019-12-14T13:52:20.920+00:00 axis-00408cf5b0f1 [ INFO    ] Motion_detection[0]: starting Motion_detection
+2019-12-14T13:59:49.127+00:00 axis-00408cf5b0f1 [ INFO    ] upload.cgi: Uploaded '/tmp/Motion_detection_1_0_mipsisa32r2el.eap' size:52667
+2019-12-14T13:59:49.611+00:00 axis-00408cf5b0f1 [ INFO    ] Motion_detection[0]: stopping Motion_detection
+2019-12-14T13:59:51.045+00:00 axis-00408cf5b0f1 [ NOTICE  ] dbus[859]: [system] Reloaded configuration
+2019-12-14T13:59:53.484+00:00 axis-00408cf5b0f1 [ INFO    ] upload.cgi: Package /tmp/Motion_detection_1_0_mipsisa32r2el.eap installation OK
+2019-12-14T13:59:53.488+00:00 axis-00408cf5b0f1 [ NOTICE  ] dbus[859]: message repeated 2 times: [ [system] Reloaded configuration]
+2019-12-14T13:59:57.683+00:00 axis-00408cf5b0f1 [ INFO    ] Motion_detection[0]: starting Motion_detection
+2019-12-14T14:04:26.242+00:00 axis-00408cf5b0f1 [ INFO    ] monolith[1034]: monolith[1034]: HTTP image/jpeg session terminated from 192.168.20.245
+2019-12-14T14:05:24.599+00:00 axis-00408cf5b0f1 [ WARNING ] disks[1296]: Failed to get /sys/ path for /dev/mmcblk0p1
+2019-12-14T14:18:14.484+00:00 axis-00408cf5b0f1 [ INFO    ] upload.cgi: Uploaded '/tmp/Motion_detection_1_0_mipsisa32r2el.eap' size:52805
+2019-12-14T14:18:14.826+00:00 axis-00408cf5b0f1 [ INFO    ] Motion_detection[0]: stopping Motion_detection
+2019-12-14T14:18:15.846+00:00 axis-00408cf5b0f1 [ NOTICE  ] dbus[859]: [system] Reloaded configuration
+2019-12-14T14:18:16.238+00:00 axis-00408cf5b0f1 [ NOTICE  ] dbus[859]: [system] Reloaded configuration
+2019-12-14T14:18:17.508+00:00 axis-00408cf5b0f1 [ INFO    ] upload.cgi: Package /tmp/Motion_detection_1_0_mipsisa32r2el.eap installation OK
+2019-12-14T14:18:17.539+00:00 axis-00408cf5b0f1 [ NOTICE  ] dbus[859]: [system] Reloaded configuration
+2019-12-14T14:18:25.126+00:00 axis-00408cf5b0f1 [ INFO    ] Motion_detection[0]: starting Motion_detection
+2019-12-14T14:18:34.208+00:00 axis-00408cf5b0f1 [ INFO    ] monolith[1034]: monolith[1034]: HTTP image/jpeg session created from 192.168.20.245
+2019-12-14T14:26:29.511+00:00 axis-00408cf5b0f1 [ INFO    ] upload.cgi: Uploaded '/tmp/Motion_detection_1_0_mipsisa32r2el.eap' size:52395
+2019-12-14T14:26:30.033+00:00 axis-00408cf5b0f1 [ INFO    ] Motion_detection[0]: stopping Motion_detection
+2019-12-14T14:26:32.528+00:00 axis-00408cf5b0f1 [ NOTICE  ] dbus[859]: [system] Reloaded configuration
+2019-12-14T14:26:33.282+00:00 axis-00408cf5b0f1 [ NOTICE  ] dbus[859]: [system] Reloaded configuration
+2019-12-14T14:26:35.946+00:00 axis-00408cf5b0f1 [ INFO    ] upload.cgi: Package /tmp/Motion_detection_1_0_mipsisa32r2el.eap installation OK
+2019-12-14T14:26:36.400+00:00 axis-00408cf5b0f1 [ NOTICE  ] dbus[859]: [system] Reloaded configuration
+2019-12-14T14:26:42.295+00:00 axis-00408cf5b0f1 [ INFO    ] Motion_detection[0]: starting Motion_detection
+2019-12-14T14:26:44.715+00:00 axis-00408cf5b0f1 [ INFO    ] monolith[1034]: monolith[1034]: HTTP image/jpeg session terminated from 192.168.20.245
+2019-12-14T14:26:47.777+00:00 axis-00408cf5b0f1 [ INFO    ] monolith[1034]: monolith[1034]: HTTP image/jpeg session created from 192.168.20.245
+2019-12-14T14:38:16.263+00:00 axis-00408cf5b0f1 [ INFO    ] monolith[1034]: monolith[1034]: HTTP image/jpeg session terminated from 192.168.20.245
+2019-12-14T15:05:24.597+00:00 axis-00408cf5b0f1 [ WARNING ] disks[1296]: Failed to get /sys/ path for /dev/mmcblk0p1
+2019-12-14T16:05:24.596+00:00 axis-00408cf5b0f1 [ WARNING ] disks[1296]: Failed to get /sys/ path for /dev/mmcblk0p1
+2019-12-14T17:05:24.597+00:00 axis-00408cf5b0f1 [ WARNING ] disks[1296]: Failed to get /sys/ path for /dev/mmcblk0p1
+2019-12-14T18:05:24.596+00:00 axis-00408cf5b0f1 [ WARNING ] disks[1296]: Failed to get /sys/ path for /dev/mmcblk0p1
+2019-12-14T19:05:24.597+00:00 axis-00408cf5b0f1 [ WARNING ] disks[1296]: Failed to get /sys/ path for /dev/mmcblk0p1
+2019-12-14T20:05:24.594+00:00 axis-00408cf5b0f1 [ WARNING ] disks[1296]: Failed to get /sys/ path for /dev/mmcblk0p1
+2019-12-14T21:05:24.592+00:00 axis-00408cf5b0f1 [ WARNING ] disks[1296]: Failed to get /sys/ path for /dev/mmcblk0p1
+2019-12-14T22:05:24.593+00:00 axis-00408cf5b0f1 [ WARNING ] disks[1296]: Failed to get /sys/ path for /dev/mmcblk0p1
+2019-12-14T23:05:24.597+00:00 axis-00408cf5b0f1 [ WARNING ] disks[1296]: Failed to get /sys/ path for /dev/mmcblk0p1
+2019-12-15T00:05:24.593+00:00 axis-00408cf5b0f1 [ WARNING ] disks[1296]: Failed to get /sys/ path for /dev/mmcblk0p1
+2019-12-15T01:05:24.593+00:00 axis-00408cf5b0f1 [ WARNING ] disks[1296]: Failed to get /sys/ path for /dev/mmcblk0p1
+2019-12-15T02:05:24.594+00:00 axis-00408cf5b0f1 [ WARNING ] disks[1296]: Failed to get /sys/ path for /dev/mmcblk0p1
+2019-12-15T03:05:24.593+00:00 axis-00408cf5b0f1 [ WARNING ] disks[1296]: Failed to get /sys/ path for /dev/mmcblk0p1
+2019-12-15T04:05:24.593+00:00 axis-00408cf5b0f1 [ WARNING ] disks[1296]: Failed to get /sys/ path for /dev/mmcblk0p1
+2019-12-15T05:05:24.593+00:00 axis-00408cf5b0f1 [ WARNING ] disks[1296]: Failed to get /sys/ path for /dev/mmcblk0p1
+2019-12-15T06:05:24.594+00:00 axis-00408cf5b0f1 [ WARNING ] disks[1296]: Failed to get /sys/ path for /dev/mmcblk0p1
+2019-12-15T07:05:24.593+00:00 axis-00408cf5b0f1 [ WARNING ] disks[1296]: Failed to get /sys/ path for /dev/mmcblk0p1
+2019-12-15T08:05:24.593+00:00 axis-00408cf5b0f1 [ WARNING ] disks[1296]: Failed to get /sys/ path for /dev/mmcblk0p1
+2019-12-15T09:05:24.592+00:00 axis-00408cf5b0f1 [ WARNING ] disks[1296]: Failed to get /sys/ path for /dev/mmcblk0p1
+2019-12-15T10:05:24.593+00:00 axis-00408cf5b0f1 [ WARNING ] disks[1296]: Failed to get /sys/ path for /dev/mmcblk0p1
+2019-12-15T11:05:24.594+00:00 axis-00408cf5b0f1 [ WARNING ] disks[1296]: Failed to get /sys/ path for /dev/mmcblk0p1
+2019-12-15T12:05:24.594+00:00 axis-00408cf5b0f1 [ WARNING ] disks[1296]: Failed to get /sys/ path for /dev/mmcblk0p1
+2019-12-15T12:49:46.262+00:00 axis-00408cf5b0f1 [ INFO    ] monolith[1034]: monolith[1034]: HTTP image/jpeg session created from 192.168.20.241
+2019-12-15T12:50:12.839+00:00 axis-00408cf5b0f1 [ INFO    ] monolith[1034]: monolith[1034]: HTTP image/jpeg session terminated from 192.168.20.241
+2019-12-15T12:50:22.104+00:00 axis-00408cf5b0f1 [ INFO    ] server[0]: starting server
+2019-12-15T12:50:25.566+00:00 axis-00408cf5b0f1 [ INFO    ] server[0]: stopping server
+2019-12-15T12:50:28.513+00:00 axis-00408cf5b0f1 [ INFO    ] server[0]: starting server
+2019-12-15T13:05:24.602+00:00 axis-00408cf5b0f1 [ WARNING ] disks[1296]: Failed to get /sys/ path for /dev/mmcblk0p1
+2019-12-15T13:10:10.221+00:00 axis-00408cf5b0f1 [ INFO    ] monolith[1034]: monolith[1034]: HTTP image/jpeg session created from 192.168.20.241
+2019-12-15T14:05:24.599+00:00 axis-00408cf5b0f1 [ WARNING ] disks[1296]: Failed to get /sys/ path for /dev/mmcblk0p1
+2019-12-15T14:13:44.334+00:00 axis-00408cf5b0f1 [ INFO    ] monolith[1034]: monolith[1034]: HTTP image/jpeg session terminated from 192.168.20.241
+2019-12-15T14:13:47.318+00:00 axis-00408cf5b0f1 [ INFO    ] monolith[1034]: monolith[1034]: HTTP image/jpeg session created from 192.168.20.241
+2019-12-15T14:13:51.498+00:00 axis-00408cf5b0f1 [ INFO    ] monolith[1034]: monolith[1034]: HTTP image/jpeg session terminated from 192.168.20.241
+2019-12-15T14:13:54.505+00:00 axis-00408cf5b0f1 [ INFO    ] monolith[1034]: monolith[1034]: HTTP image/jpeg session created from 192.168.20.241
+2019-12-15T14:14:05.764+00:00 axis-00408cf5b0f1 [ INFO    ] monolith[1034]: monolith[1034]: HTTP image/jpeg session terminated from 192.168.20.241
+2019-12-15T14:14:08.736+00:00 axis-00408cf5b0f1 [ INFO    ] monolith[1034]: monolith[1034]: HTTP image/jpeg session created from 192.168.20.241
+2019-12-15T14:25:56.367+00:00 axis-00408cf5b0f1 [ INFO    ] monolith[1034]: monolith[1034]: HTTP image/jpeg session created from 192.168.20.241
+2019-12-15T15:05:24.600+00:00 axis-00408cf5b0f1 [ WARNING ] disks[1296]: Failed to get /sys/ path for /dev/mmcblk0p1
+2019-12-15T15:27:45.499+00:00 axis-00408cf5b0f1 [ INFO    ] monolith[1034]: monolith[1034]: HTTP image/jpeg session terminated from 192.168.20.241
+2019-12-15T15:28:02.535+00:00 axis-00408cf5b0f1 [ INFO    ] monolith[1034]: monolith[1034]: HTTP image/jpeg session terminated from 192.168.20.241
+2019-12-15T16:05:24.597+00:00 axis-00408cf5b0f1 [ WARNING ] disks[1296]: Failed to get /sys/ path for /dev/mmcblk0p1
+2019-12-15T17:05:24.595+00:00 axis-00408cf5b0f1 [ WARNING ] disks[1296]: Failed to get /sys/ path for /dev/mmcblk0p1
+2019-12-15T18:05:24.596+00:00 axis-00408cf5b0f1 [ WARNING ] disks[1296]: Failed to get /sys/ path for /dev/mmcblk0p1
+2019-12-15T19:05:24.596+00:00 axis-00408cf5b0f1 [ WARNING ] disks[1296]: Failed to get /sys/ path for /dev/mmcblk0p1
+2019-12-15T20:05:24.597+00:00 axis-00408cf5b0f1 [ WARNING ] disks[1296]: Failed to get /sys/ path for /dev/mmcblk0p1
+2019-12-15T21:05:24.596+00:00 axis-00408cf5b0f1 [ WARNING ] disks[1296]: Failed to get /sys/ path for /dev/mmcblk0p1
+2019-12-15T22:05:24.594+00:00 axis-00408cf5b0f1 [ WARNING ] disks[1296]: Failed to get /sys/ path for /dev/mmcblk0p1
+2019-12-15T23:05:24.599+00:00 axis-00408cf5b0f1 [ WARNING ] disks[1296]: Failed to get /sys/ path for /dev/mmcblk0p1
+2019-12-16T00:05:24.593+00:00 axis-00408cf5b0f1 [ WARNING ] disks[1296]: Failed to get /sys/ path for /dev/mmcblk0p1
+2019-12-16T01:05:24.593+00:00 axis-00408cf5b0f1 [ WARNING ] disks[1296]: Failed to get /sys/ path for /dev/mmcblk0p1
+2019-12-16T02:05:24.593+00:00 axis-00408cf5b0f1 [ WARNING ] disks[1296]: Failed to get /sys/ path for /dev/mmcblk0p1
+2019-12-16T03:05:24.593+00:00 axis-00408cf5b0f1 [ WARNING ] disks[1296]: Failed to get /sys/ path for /dev/mmcblk0p1
+2019-12-16T04:05:24.594+00:00 axis-00408cf5b0f1 [ WARNING ] disks[1296]: Failed to get /sys/ path for /dev/mmcblk0p1
+2019-12-16T05:05:24.593+00:00 axis-00408cf5b0f1 [ WARNING ] disks[1296]: Failed to get /sys/ path for /dev/mmcblk0p1
+2019-12-16T06:05:24.593+00:00 axis-00408cf5b0f1 [ WARNING ] disks[1296]: Failed to get /sys/ path for /dev/mmcblk0p1
+2019-12-16T07:05:24.594+00:00 axis-00408cf5b0f1 [ WARNING ] disks[1296]: Failed to get /sys/ path for /dev/mmcblk0p1
+2019-12-16T08:05:24.593+00:00 axis-00408cf5b0f1 [ WARNING ] disks[1296]: Failed to get /sys/ path for /dev/mmcblk0p1
+2019-12-16T09:05:24.594+00:00 axis-00408cf5b0f1 [ WARNING ] disks[1296]: Failed to get /sys/ path for /dev/mmcblk0p1
+2019-12-16T10:05:24.593+00:00 axis-00408cf5b0f1 [ WARNING ] disks[1296]: Failed to get /sys/ path for /dev/mmcblk0p1
+2019-12-16T11:05:24.594+00:00 axis-00408cf5b0f1 [ WARNING ] disks[1296]: Failed to get /sys/ path for /dev/mmcblk0p1
+2019-12-16T12:05:24.594+00:00 axis-00408cf5b0f1 [ WARNING ] disks[1296]: Failed to get /sys/ path for /dev/mmcblk0p1
+2019-12-16T13:05:24.592+00:00 axis-00408cf5b0f1 [ WARNING ] disks[1296]: Failed to get /sys/ path for /dev/mmcblk0p1
+2019-12-16T14:05:24.593+00:00 axis-00408cf5b0f1 [ WARNING ] disks[1296]: Failed to get /sys/ path for /dev/mmcblk0p1
+2019-12-16T15:05:24.595+00:00 axis-00408cf5b0f1 [ WARNING ] disks[1296]: Failed to get /sys/ path for /dev/mmcblk0p1
+2019-12-16T16:05:24.594+00:00 axis-00408cf5b0f1 [ WARNING ] disks[1296]: Failed to get /sys/ path for /dev/mmcblk0p1
+2019-12-16T17:05:24.601+00:00 axis-00408cf5b0f1 [ WARNING ] disks[1296]: Failed to get /sys/ path for /dev/mmcblk0p1
+2019-12-16T18:05:24.602+00:00 axis-00408cf5b0f1 [ WARNING ] disks[1296]: Failed to get /sys/ path for /dev/mmcblk0p1
+2019-12-16T19:05:24.594+00:00 axis-00408cf5b0f1 [ WARNING ] disks[1296]: Failed to get /sys/ path for /dev/mmcblk0p1
+2019-12-16T20:05:24.600+00:00 axis-00408cf5b0f1 [ WARNING ] disks[1296]: Failed to get /sys/ path for /dev/mmcblk0p1
+2019-12-16T21:05:24.600+00:00 axis-00408cf5b0f1 [ WARNING ] disks[1296]: Failed to get /sys/ path for /dev/mmcblk0p1
+2019-12-16T22:05:24.600+00:00 axis-00408cf5b0f1 [ WARNING ] disks[1296]: Failed to get /sys/ path for /dev/mmcblk0p1
+2019-12-16T23:05:24.599+00:00 axis-00408cf5b0f1 [ WARNING ] disks[1296]: Failed to get /sys/ path for /dev/mmcblk0p1
+2019-12-17T00:05:24.600+00:00 axis-00408cf5b0f1 [ WARNING ] disks[1296]: Failed to get /sys/ path for /dev/mmcblk0p1
+2019-12-17T01:05:24.600+00:00 axis-00408cf5b0f1 [ WARNING ] disks[1296]: Failed to get /sys/ path for /dev/mmcblk0p1
+2019-12-17T02:05:24.593+00:00 axis-00408cf5b0f1 [ WARNING ] disks[1296]: Failed to get /sys/ path for /dev/mmcblk0p1
+2019-12-17T03:05:24.602+00:00 axis-00408cf5b0f1 [ WARNING ] disks[1296]: Failed to get /sys/ path for /dev/mmcblk0p1
+2019-12-17T04:05:24.600+00:00 axis-00408cf5b0f1 [ WARNING ] disks[1296]: Failed to get /sys/ path for /dev/mmcblk0p1
+2019-12-17T05:05:24.592+00:00 axis-00408cf5b0f1 [ WARNING ] disks[1296]: Failed to get /sys/ path for /dev/mmcblk0p1
+2019-12-17T06:05:24.602+00:00 axis-00408cf5b0f1 [ WARNING ] disks[1296]: Failed to get /sys/ path for /dev/mmcblk0p1
+2019-12-17T07:05:24.594+00:00 axis-00408cf5b0f1 [ WARNING ] disks[1296]: Failed to get /sys/ path for /dev/mmcblk0p1
+2019-12-17T08:05:24.600+00:00 axis-00408cf5b0f1 [ WARNING ] disks[1296]: Failed to get /sys/ path for /dev/mmcblk0p1
+2019-12-17T09:05:24.602+00:00 axis-00408cf5b0f1 [ WARNING ] disks[1296]: Failed to get /sys/ path for /dev/mmcblk0p1
+2019-12-17T10:05:24.592+00:00 axis-00408cf5b0f1 [ WARNING ] disks[1296]: Failed to get /sys/ path for /dev/mmcblk0p1
+2019-12-17T11:05:24.600+00:00 axis-00408cf5b0f1 [ WARNING ] disks[1296]: Failed to get /sys/ path for /dev/mmcblk0p1
+2019-12-17T12:05:24.600+00:00 axis-00408cf5b0f1 [ WARNING ] disks[1296]: Failed to get /sys/ path for /dev/mmcblk0p1
+2019-12-17T13:05:24.600+00:00 axis-00408cf5b0f1 [ WARNING ] disks[1296]: Failed to get /sys/ path for /dev/mmcblk0p1
+2019-12-17T14:05:24.593+00:00 axis-00408cf5b0f1 [ WARNING ] disks[1296]: Failed to get /sys/ path for /dev/mmcblk0p1
+2019-12-17T15:05:24.600+00:00 axis-00408cf5b0f1 [ WARNING ] disks[1296]: Failed to get /sys/ path for /dev/mmcblk0p1
+2019-12-17T16:05:24.600+00:00 axis-00408cf5b0f1 [ WARNING ] disks[1296]: Failed to get /sys/ path for /dev/mmcblk0p1
+2019-12-17T17:05:24.601+00:00 axis-00408cf5b0f1 [ WARNING ] disks[1296]: Failed to get /sys/ path for /dev/mmcblk0p1
+2019-12-17T18:05:24.596+00:00 axis-00408cf5b0f1 [ WARNING ] disks[1296]: Failed to get /sys/ path for /dev/mmcblk0p1
+2019-12-17T18:19:25.309+00:00 axis-00408cf5b0f1 [ INFO    ] monolith[1034]: monolith[1034]: HTTP image/jpeg session created from 192.168.20.64
+2019-12-17T18:19:45.022+00:00 axis-00408cf5b0f1 [ INFO    ] monolith[1034]: monolith[1034]: HTTP image/jpeg session terminated from 192.168.20.64
+2019-12-17T18:20:11.215+00:00 axis-00408cf5b0f1 [ INFO    ] monolith[1034]: monolith[1034]: HTTP image/jpeg session created from 192.168.20.64
+2019-12-17T18:20:30.573+00:00 axis-00408cf5b0f1 [ INFO    ] monolith[1034]: monolith[1034]: HTTP image/jpeg session terminated from 192.168.20.64
+2019-12-17T18:20:33.094+00:00 axis-00408cf5b0f1 [ INFO    ] monolith[1034]: monolith[1034]: HTTP image/jpeg session created from 192.168.20.64
+2019-12-17T18:20:40.292+00:00 axis-00408cf5b0f1 [ INFO    ] monolith[1034]: monolith[1034]: HTTP image/jpeg session terminated from 192.168.20.64
+2019-12-17T18:21:45.389+00:00 axis-00408cf5b0f1 [ INFO    ] monolith[1034]: monolith[1034]: HTTP image/jpeg session created from 192.168.20.245
+2019-12-17T19:05:24.600+00:00 axis-00408cf5b0f1 [ WARNING ] disks[1296]: Failed to get /sys/ path for /dev/mmcblk0p1
+2019-12-17T19:12:38.100+00:00 axis-00408cf5b0f1 [ INFO    ] monolith[1034]: monolith[1034]: HTTP image/jpeg session terminated from 192.168.20.245
+2019-12-17T19:14:18.540+00:00 axis-00408cf5b0f1 [ INFO    ] monolith[1034]: monolith[1034]: HTTP image/jpeg session created from 192.168.20.245
+2019-12-17T19:14:35.803+00:00 axis-00408cf5b0f1 [ INFO    ] monolith[1034]: monolith[1034]: HTTP image/jpeg session terminated from 192.168.20.245
+2019-12-17T19:14:36.117+00:00 axis-00408cf5b0f1 [ INFO    ] monolith[1034]: monolith[1034]: HTTP image/jpeg session created from 192.168.20.245
+2019-12-17T19:14:43.290+00:00 axis-00408cf5b0f1 [ INFO    ] monolith[1034]: monolith[1034]: HTTP image/jpeg session terminated from 192.168.20.245
+2019-12-17T20:05:24.602+00:00 axis-00408cf5b0f1 [ WARNING ] disks[1296]: Failed to get /sys/ path for /dev/mmcblk0p1
+2019-12-17T21:05:24.601+00:00 axis-00408cf5b0f1 [ WARNING ] disks[1296]: Failed to get /sys/ path for /dev/mmcblk0p1
+2019-12-17T22:05:24.599+00:00 axis-00408cf5b0f1 [ WARNING ] disks[1296]: Failed to get /sys/ path for /dev/mmcblk0p1
+2019-12-17T23:05:24.601+00:00 axis-00408cf5b0f1 [ WARNING ] disks[1296]: Failed to get /sys/ path for /dev/mmcblk0p1
+2019-12-18T00:05:24.599+00:00 axis-00408cf5b0f1 [ WARNING ] disks[1296]: Failed to get /sys/ path for /dev/mmcblk0p1
+2019-12-18T01:05:24.594+00:00 axis-00408cf5b0f1 [ WARNING ] disks[1296]: Failed to get /sys/ path for /dev/mmcblk0p1
+2019-12-18T02:05:24.602+00:00 axis-00408cf5b0f1 [ WARNING ] disks[1296]: Failed to get /sys/ path for /dev/mmcblk0p1
+2019-12-18T03:05:24.594+00:00 axis-00408cf5b0f1 [ WARNING ] disks[1296]: Failed to get /sys/ path for /dev/mmcblk0p1
+2019-12-18T04:05:24.593+00:00 axis-00408cf5b0f1 [ WARNING ] disks[1296]: Failed to get /sys/ path for /dev/mmcblk0p1
+2019-12-18T05:05:24.594+00:00 axis-00408cf5b0f1 [ WARNING ] disks[1296]: Failed to get /sys/ path for /dev/mmcblk0p1
+2019-12-18T06:05:24.594+00:00 axis-00408cf5b0f1 [ WARNING ] disks[1296]: Failed to get /sys/ path for /dev/mmcblk0p1
+2019-12-18T07:05:24.594+00:00 axis-00408cf5b0f1 [ WARNING ] disks[1296]: Failed to get /sys/ path for /dev/mmcblk0p1
+2019-12-18T08:05:24.601+00:00 axis-00408cf5b0f1 [ WARNING ] disks[1296]: Failed to get /sys/ path for /dev/mmcblk0p1
+2019-12-18T09:05:24.600+00:00 axis-00408cf5b0f1 [ WARNING ] disks[1296]: Failed to get /sys/ path for /dev/mmcblk0p1
+2019-12-18T10:05:24.595+00:00 axis-00408cf5b0f1 [ WARNING ] disks[1296]: Failed to get /sys/ path for /dev/mmcblk0p1
+2019-12-18T11:05:24.594+00:00 axis-00408cf5b0f1 [ WARNING ] disks[1296]: Failed to get /sys/ path for /dev/mmcblk0p1
+2019-12-18T12:05:24.592+00:00 axis-00408cf5b0f1 [ WARNING ] disks[1296]: Failed to get /sys/ path for /dev/mmcblk0p1
+2019-12-18T13:05:24.596+00:00 axis-00408cf5b0f1 [ WARNING ] disks[1296]: Failed to get /sys/ path for /dev/mmcblk0p1
+2019-12-18T13:07:16.306+00:00 axis-00408cf5b0f1 [ INFO    ] monolith[1034]: monolith[1034]: HTTP image/jpeg session created from 192.168.20.176
+2019-12-18T14:05:24.593+00:00 axis-00408cf5b0f1 [ WARNING ] disks[1296]: Failed to get /sys/ path for /dev/mmcblk0p1
+2019-12-18T14:14:31.932+00:00 axis-00408cf5b0f1 [ INFO    ] monolith[1034]: monolith[1034]: HTTP image/jpeg session terminated from 192.168.20.176
+2019-12-18T15:05:24.593+00:00 axis-00408cf5b0f1 [ WARNING ] disks[1296]: Failed to get /sys/ path for /dev/mmcblk0p1
+2019-12-18T15:40:27.816+00:00 axis-00408cf5b0f1 [ INFO    ] monolith[1034]: monolith[1034]: HTTP image/jpeg session created from 192.168.20.238
+2019-12-18T15:43:00.893+00:00 axis-00408cf5b0f1 [ INFO    ] monolith[1034]: monolith[1034]: HTTP image/jpeg session terminated from 192.168.20.238
+2019-12-18T15:43:15.099+00:00 axis-00408cf5b0f1 [ INFO    ] server[0]: stopping server
+2019-12-18T15:43:17.691+00:00 axis-00408cf5b0f1 [ INFO    ] poc[0]: stopping poc
+2019-12-18T15:43:23.393+00:00 axis-00408cf5b0f1 [ NOTICE  ] dbus[859]: [system] Reloaded configuration
+2019-12-18T15:43:23.775+00:00 axis-00408cf5b0f1 [ NOTICE  ] dbus[859]: [system] Reloaded configuration
+2019-12-18T15:43:30.515+00:00 axis-00408cf5b0f1 [ INFO    ] Motion_detection[0]: stopping Motion_detection
+2019-12-18T15:43:31.492+00:00 axis-00408cf5b0f1 [ NOTICE  ] dbus[859]: [system] Reloaded configuration
+2019-12-18T15:43:41.201+00:00 axis-00408cf5b0f1 [ INFO    ] parhand[953]: Updated configuration file /etc/sysconfig/streamcache.conf.
+2019-12-18T15:43:41.203+00:00 axis-00408cf5b0f1 [ NOTICE  ] dbus[859]: message repeated 4 times: [ [system] Reloaded configuration]
+2019-12-18T15:43:41.239+00:00 axis-00408cf5b0f1 [ NOTICE  ] dbus[859]: [system] Reloaded configuration
+2019-12-18T15:44:07.503+00:00 axis-00408cf5b0f1 [ INFO    ] upload.cgi: Uploaded '/tmp/BanjoKlunjo_1_0_mipsisa32r2el.eap' size:60192
+2019-12-18T15:44:09.010+00:00 axis-00408cf5b0f1 [ NOTICE  ] dbus[859]: [system] Reloaded configuration
+2019-12-18T15:44:09.105+00:00 axis-00408cf5b0f1 [ INFO    ] parhand[953]: Updated configuration file /etc/sysconfig/streamcache.conf.
+2019-12-18T15:44:09.135+00:00 axis-00408cf5b0f1 [ INFO    ] upload.cgi: Package /tmp/BanjoKlunjo_1_0_mipsisa32r2el.eap installation OK
